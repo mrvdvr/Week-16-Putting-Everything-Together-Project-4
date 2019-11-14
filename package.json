@@ -1,25 +1,25 @@
 {
-  "name": "To-Do-List",
+  "name": "week-16-putting-everything-together-project-4",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hi everyone!,\r In this section we will go further with Mongoose. Then we will deploy application we made during the session.",
   "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "datejs": "^1.0.0-rc3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrvdvr/To-Do-List.git"
+    "url": "git+https://github.com/mrvdvr/Week-16-Putting-Everything-Together-Project-4.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrvdvr/To-Do-List/issues"
+    "url": "https://github.com/mrvdvr/Week-16-Putting-Everything-Together-Project-4/issues"
   },
-  "homepage": "https://github.com/mrvdvr/To-Do-List#readme",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "ejs": "^2.7.1",
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/mrvdvr/Week-16-Putting-Everything-Together-Project-4#readme"
 }
