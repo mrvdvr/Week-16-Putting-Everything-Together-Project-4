@@ -1,12 +1,18 @@
 {
+  "engines": {
+    "node": "v10.16.3"
+  },
   "name": "week-16-putting-everything-together-project-4",
   "version": "1.0.0",
   "description": "Hi everyone!,\r In this section we will go further with Mongoose. Then we will deploy application we made during the session.",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "datejs": "^1.0.0-rc3",
-    "express": "^4.17.1"
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.7.11",
+    "nodemon": "^1.19.4"
   },
   "devDependencies": {},
   "scripts": {
